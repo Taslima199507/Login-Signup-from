@@ -26,10 +26,10 @@ This is a beginner-friendly front-end project that demonstrates how a user regis
 ## 📸 Screenshot Preview
 
 ### 🔐 Login Page:
-![Login Screenshot](screenshot-login.png)
+![Login Screenshot](Log in.jpg)
 
 ### 📝 Sign Up Page:
-![Signup Screenshot](screenshot-signup.png)
+![Signup Screenshot](sign up.jpg)
 
 
 ## 🛠️ Technologies Used
@@ -60,8 +60,8 @@ It is a part of my portfolio to demonstrate practical web development skills.
 ## 📎 View Source Code
 
 🔗 GitHub Repository:
-https://github.com/Taslima199507/Login-Signup-.git
 
+https://github.com/Taslima199507/Login-Signup-.git
 ---
 
 ## Author
